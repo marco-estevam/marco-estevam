@@ -19,7 +19,7 @@
 
 ## Languages and Tools:
 ![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=marco-estevam&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marco-estevam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <code><img height= "20" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
